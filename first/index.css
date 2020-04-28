@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background-color: #d8d8d8;
+}
+
+header {
+    height: 15vh;
+    background-color: #444;
+}
+
+main {
+    width: 80vw;
+    height: 75vh;
+    margin: 0 auto;
+    background-color: white;
+}
+
+footer {
+    background-color: black;
+    width: 80vw;
+    height: 10vh;
+    margin: 0 auto;
+}
