@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #d8d8d8;
+  min-height: 100px;
+  height: 15vh;
+  padding: 10px;
+}
+
+.small-blue-box {
+  background-color: #4a90e2;
+  height: 100%;
+  width: 100px;
+}
+
+.instructions {
+  height: 25vh;
+  min-height: 200px;
+  padding: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+}
+
+.color-bars {
+  width: 100%;
+}
+
+.color-bar-1 {
+  background-color: #4a90e2;
+  min-height: 100px;
+  height: 15vh;
+}
+
+.color-bar-2 {
+  background-color: #50e3c2;
+  min-height: 100px;
+  height: 15vh;
+}
+
+.color-bar-3 {
+  background-color: #b8e986;
+  min-height: 100px;
+  height: 15vh;
+}
+
+.color-bar-4 {
+  background-color: #f8e71c;
+  min-height: 100px;
+  height: 15vh;
+}
